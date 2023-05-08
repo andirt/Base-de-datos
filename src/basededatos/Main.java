@@ -6,6 +6,8 @@ import java.util.Arrays;
 
 public class Main {
     
+    //Comentario para cargar segundo commit
+    
     public static void main(String[] args) throws IOException, FileNotFoundException, ClassNotFoundException, ClassNotFoundException {
         
         RegistroUsuario user1 = new RegistroUsuario(1, "John", "Doe", "12345A", "johnnymelabo@gmail.com", 15);
